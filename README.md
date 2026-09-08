@@ -15,7 +15,7 @@ Language:
 
 ## Important: 
 - To run: Clone the repository:
-  - git clone https://github.com/<your-username>/linear-regression-study-hours.git
+  - git clone https://github.com/rudramp0751/linear-regression-study-hours.git
 - Make sure to install the required Python libraries:
    - pip install pandas matplotlib scikit-learn
  - Run the study_hours_linearRegression.py file
